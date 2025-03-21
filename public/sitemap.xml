@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<urlset  
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"  
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"  
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9  
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">  
+
+  <!-- Home -->  
+  <url>  
+    <loc>https://joshanjoshi.42web.io/</loc>  
+    <lastmod>2025-03-19</lastmod>  
+    <changefreq>weekly</changefreq>  
+    <priority>1.0</priority>  
+  </url>  
+
+  <!-- About -->  
+  <url>  
+    <loc>https://joshanjoshi.42web.io/about</loc>  
+    <lastmod>2025-03-19</lastmod>  
+    <changefreq>monthly</changefreq>  
+    <priority>0.9</priority>  
+  </url>  
+
+  <!-- Services -->  
+  <url>  
+    <loc>https://joshanjoshi.42web.io/services</loc>  
+    <lastmod>2025-03-19</lastmod>  
+    <changefreq>monthly</changefreq>  
+    <priority>0.8</priority>  
+  </url>  
+
+  <!-- Skills -->  
+  <url>  
+    <loc>https://joshanjoshi.42web.io/skills</loc>  
+    <lastmod>2025-03-19</lastmod>  
+    <changefreq>monthly</changefreq>  
+    <priority>0.7</priority>  
+  </url>  
+
+  <!-- Portfolio -->  
+  <url>  
+    <loc>https://joshanjoshi.42web.io/portfolio</loc>  
+    <lastmod>2025-03-19</lastmod>  
+    <changefreq>monthly</changefreq>  
+    <priority>0.9</priority>  
+
+    <!-- Portfolio Images  -->  
+    <image:image>  
+      <image:loc>https://joshanjoshi.42web.io/assets/car-BPaVGQDz.png</image:loc>  
+      <image:title>Car Marketplace</image:title>  
+      <image:caption>A sleek platform for buying and selling cars, designed to make the process seamless and user-friendly. This project highlights my ability to create intuitive interfaces and robust back-end systems.</image:caption>  
+    </image:image>  
+    <image:image>  
+      <image:loc>https://joshanjoshi.42web.io/assets/shopping-CePutsuZ.png</image:loc>  
+      <image:title>Online Shopping Store</image:title>  
+      <image:caption>An e-commerce site built to handle high traffic and provide a smooth shopping experience. It showcases my expertise in scalable solutions and performance optimization.</image:caption>  
+    </image:image>  
+    <image:image>  
+      <image:loc>https://joshanjoshi.42web.io/assets/winter-UCgx4BE1.png</image:loc>  
+      <image:title>Winter Sports Hub</image:title>  
+      <image:caption>A winter-themed platform for booking ski trips and winter gear. This project demonstrates my creativity and attention to detail in crafting engaging user experiences.</image:caption>  
+    </image:image>  
+    <image:image>  
+      <image:loc>https://joshanjoshi.42web.io/assets/ecommerce-D43-tL7-.png</image:loc>  
+      <image:title>E-commerce Solutions</image:title>  
+      <image:caption>A comprehensive e-commerce platform with advanced features like payment integration and inventory management. It reflects my ability to deliver complex solutions efficiently.</image:caption>  
+    </image:image>  
+    <image:image>  
+      <image:loc>https://joshanjoshi.42web.io/assets/health-B4-oIk_g.png</image:loc>  
+      <image:title>Health &amp; Wellness App</image:title>  
+      <image:caption>A healthcare app designed to connect users with wellness resources and track their health goals. This project highlights my focus on usability and accessibility.</image:caption>  
+    </image:image>  
+    <image:image>  
+      <image:loc>https://joshanjoshi.42web.io/assets/traveling-F4fxz5MC.png</image:loc>  
+      <image:title>Travel Booking Platform</image:title>  
+      <image:caption>A travel website that simplifies booking flights, hotels, and activities. It showcases my skills in creating user-friendly interfaces and integrating third-party APIs.</image:caption>  
+    </image:image>  
+  </url>  
+  
+  <!-- Contact -->  
+  <url>  
+    <loc>https://joshanjoshi.42web.io/contact</loc>  
+    <lastmod>2025-03-19</lastmod>  
+    <changefreq>monthly</changefreq>  
+    <priority>0.8</priority>  
+  </url>  
+
+</urlset>  

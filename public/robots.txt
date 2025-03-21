@@ -1,0 +1,9 @@
+# Allow all crawlers access to everything  
+User-agent: *  
+Disallow:  
+
+# Host
+Host: https://www.wscubetech.com/
+
+# Sitemap declaration  
+Sitemap: https://joshanjoshi.42web.io/sitemap.xml
